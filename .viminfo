@@ -11,8 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
+|2,0,1626779945,,"q"
 :wq
-|2,0,1626424417,,"wq"
+|2,0,1626779865,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +27,43 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/1.java
-|4,48,2,0,1626424417,"~/1.java"
+'0  1  28  ~/katta
+|4,48,1,28,1626779945,"~/katta"
+'1  1  28  ~/katta
+|4,49,1,28,1626779865,"~/katta"
+'2  2  0  ~/1.java
+|4,50,2,0,1626424417,"~/1.java"
 
 # Jumplist (newest first):
+-'  1  28  ~/katta
+|4,39,1,28,1626779945,"~/katta"
+-'  1  28  ~/katta
+|4,39,1,28,1626779865,"~/katta"
+-'  2  0  ~/1.java
+|4,39,2,0,1626424417,"~/1.java"
+-'  2  0  ~/1.java
+|4,39,2,0,1626424417,"~/1.java"
+-'  2  0  ~/1.java
+|4,39,2,0,1626424417,"~/1.java"
 -'  2  0  ~/1.java
 |4,39,2,0,1626424417,"~/1.java"
 -'  1  0  ~/1.java
 |4,39,1,0,1626424391,"~/1.java"
+-'  1  0  ~/1.java
+|4,39,1,0,1626424391,"~/1.java"
+-'  1  0  ~/1.java
+|4,39,1,0,1626424391,"~/1.java"
+-'  1  0  ~/1.java
+|4,39,1,0,1626424391,"~/1.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/katta
+	*	1626779940	0
+	"	1	28
+	^	1	29
+	.	1	28
+	+	1	28
 
 > ~/1.java
 	*	1626424414	0
