@@ -42,3 +42,17 @@ git status
 ls -l
 cd edujuly12
 git status
+git ststus
+git status
+git a.
+git add .
+git status
+git commit -m "history"
+ls -l
+cd edujuly12
+ls -l
+ls -al
+git pull
+git clone
+git status
+exit
